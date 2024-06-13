@@ -38,6 +38,7 @@ body {
   background-color: #0000006e;
   display: flex;
   flex-direction: column;
+  align-items: flex-end;
   justify-content: space-between;
   padding: 0.5rem;
   word-wrap: break-word;
